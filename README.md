@@ -1,2 +1,2 @@
 # FunctionGenerator_LabVIEW
-A function generator coded in labview
+This is a Function Generator coded in LabVIEW. I used this code to interface with an NI DAQ board to output the generated signals.
